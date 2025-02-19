@@ -22,6 +22,7 @@
 
 img {
     margin: auto;
+    box-align: center;
 }
 
 .nav-button {
