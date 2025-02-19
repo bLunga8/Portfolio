@@ -23,7 +23,8 @@
 #newspaper {
     margin: auto;
     box-align: center;
-    size: 125%;
+    width: 125%;
+    height:auto;
 }
 
 .nav-button {
