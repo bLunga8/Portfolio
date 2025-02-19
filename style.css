@@ -23,6 +23,7 @@
 #newspaper {
     margin: auto;
     box-align: center;
+    display:block;
     width: 75%;
     height:auto;
 }
