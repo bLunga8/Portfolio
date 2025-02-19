@@ -28,6 +28,11 @@
     height:auto;
 }
 
+#home {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .nav-button {
     margin: auto;
 }
