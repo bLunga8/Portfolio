@@ -1,6 +1,6 @@
 /*desktop*/
 #content {
-    width: 50%;
+    width: 75%;
     margin: auto;
     line-height: 1.5em;
     font-size: 1.5em;
@@ -36,7 +36,7 @@
     margin: auto;
     box-align: center;
     display:block;
-    width: 75%;
+    width: 50%;
     height:auto;
 }
 
@@ -86,4 +86,8 @@
     display:block;
     width: 100%;
     height:auto;
+}
+
+a{
+    text-decoration:none;
 }
