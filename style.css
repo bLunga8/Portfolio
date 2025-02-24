@@ -63,3 +63,27 @@
     background-color: black;
     font-weight: bold;
 }
+
+#dth{
+    margin: auto;
+    box-align: center;
+    display:block;
+    width: 100%;
+    height:auto;
+}
+
+#kih{
+    margin: auto;
+    box-align: center;
+    display:block;
+    width: 100%;
+    height:auto;
+}
+
+#dn{
+    margin: auto;
+    box-align: center;
+    display:block;
+    width: 100%;
+    height:auto;
+}
