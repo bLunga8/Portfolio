@@ -28,6 +28,14 @@
     height:auto;
 }
 
+#picture{
+    margin: auto;
+    box-align: center;
+    display:block;
+    width: 100%;
+    height:auto;
+}
+
 #home {
     margin-top: 10px;
     margin-bottom: 10px;
