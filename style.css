@@ -102,3 +102,11 @@ a{
     width: 100%;
     height:auto;
 }
+
+#yt{
+margin: auto;
+box-align: center;
+display:block;
+width: 75%;
+height:75%;
+}
