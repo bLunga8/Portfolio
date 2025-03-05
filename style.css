@@ -110,3 +110,15 @@ display:block;
 width: 75%;
 height:75%;
 }
+
+figcaption{
+    font-size: 0.66em; 
+}
+
+.flourish-embed{
+    margin: auto;
+    box-align: center;
+    display:block;
+    width: 75%;
+    height: auto; 
+}
