@@ -94,3 +94,11 @@
 a{
     text-decoration:none;
 }
+
+#cover{
+    margin: auto;
+    box-align: center;
+    display:block;
+    width: 100%;
+    height:auto;
+}
