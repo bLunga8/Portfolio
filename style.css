@@ -26,6 +26,7 @@
     }
 }
 
+/*navigation bar styles*/
 #nav-bar {
     display: flex;
     flex-direction: row;
@@ -57,6 +58,7 @@
     margin: auto;
 }
 
+/*style for links inside the navigation bar*/
 .nav-button a {
     color: white;
     text-decoration: none;
@@ -64,6 +66,7 @@
     font-weight: bold;
 }
 
+/*style for publication logos in Work section*/
 #dth{
     margin: auto;
     box-align: center;
